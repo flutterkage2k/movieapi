@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:notion_api_deamyoungpallet_account/home_page.dart';
+import 'package:movie_api/home_page.dart';
 
 void main() {
   runApp(MyApp());
